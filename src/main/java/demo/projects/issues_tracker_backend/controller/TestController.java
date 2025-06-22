@@ -11,4 +11,9 @@ public class TestController {
     public String hello(@RequestParam String input) {
         return String.format("Hello from backend! You have selected: %s  ", input);
     }
+
+     @GetMapping("/api/test")
+    public String test() {
+        return "This is test message..";
+    }
 }
