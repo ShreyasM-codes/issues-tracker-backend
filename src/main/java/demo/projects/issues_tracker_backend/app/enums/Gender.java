@@ -1,4 +1,4 @@
-package demo.projects.issues_tracker_backend.model;
+package demo.projects.issues_tracker_backend.app.enums;
 
 public enum Gender {
     MALE,

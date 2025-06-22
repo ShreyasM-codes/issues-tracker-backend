@@ -1,6 +1,6 @@
-package demo.projects.issues_tracker_backend.controller;
+package demo.projects.issues_tracker_backend.view.controller;
 
-import demo.projects.issues_tracker_backend.model.User;
+import demo.projects.issues_tracker_backend.app.model.User;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;

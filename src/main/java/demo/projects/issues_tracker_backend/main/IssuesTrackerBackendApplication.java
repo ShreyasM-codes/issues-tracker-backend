@@ -1,4 +1,4 @@
-package demo.projects.issues_tracker_backend;
+package demo.projects.issues_tracker_backend.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

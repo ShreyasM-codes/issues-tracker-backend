@@ -1,5 +1,7 @@
-package demo.projects.issues_tracker_backend.model;
+package demo.projects.issues_tracker_backend.app.model;
 
+
+import demo.projects.issues_tracker_backend.app.enums.Gender;
 
 public class User {
     private String name;
